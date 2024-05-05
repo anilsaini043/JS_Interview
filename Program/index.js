@@ -60,4 +60,4 @@
 
 // 30. Find the Longest prefix.
 
-// 31. Count the vowels in the string.
+// 31. Count the vowels in the string
