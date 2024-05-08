@@ -16,3 +16,13 @@
 // 13): Count the Vowels in the given list of string.
 // 14): Check base 2 and power 3 = 8 or others.
 // 15): Find the sum of square of each array element.
+// 16): Find min value from array. Array may have any types of number like +, - or empty array
+// 17): Write a function to convert a string to camel case and snake_case.
+                // Ex:- Anil kumar saini  ---> anilKumarSaini   (camel case)
+                // Ex:- anilKumarSaini  ---> anil_kumar_saini  (snake_case)
+
+// 18): Write a function to check if a character is uppercase or lowercase.
+// 19): Write a function to check if a given string starts with a specific substring.
+// 20): Write a function to reverse a string without using any built in methods or library.
+//              The function should take a string as input and return the reversed string.
+
