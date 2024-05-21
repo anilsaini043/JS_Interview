@@ -23,6 +23,13 @@
 
 // 18): Write a function to check if a character is uppercase or lowercase.
 // 19): Write a function to check if a given string starts with a specific substring.
-// 20): Write a function to reverse a string without using any built in methods or library.
-//              The function should take a string as input and return the reversed string.
+// 20): Write a function to reverse a string without using any built in methods or library. Note: The function should take a string as input and return the reversed string.
 
+// 21):Write a function to take a parameter as array of numbers input and return the mean (average), medien and mode of it.
+// 22): Find the occurance of each array element
+// 23): Find the factorial of number using recursion
+// 24): Fibonic using recursion
+// 25): Repeat String  -> in js we have repeat method  --> repeatFunc("anil", 3) // anilanilanil
+// 26): Truncate a String  -->  truncFunc("anil kumar saini", 5) // kumar saini
+// 27): write a function to generate an array containing consecutive numbers from a and b inclusive both --> generateNum(0,5) // [0,1,2,3,4,5]  and Do it as well recursion
+   
